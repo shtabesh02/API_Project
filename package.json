@@ -1,0 +1,20 @@
+{
+  "name": "practice-for-sprint-12-authenticate-me-for-render-deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appacademy/practice-for-sprint-12-authenticate-me-for-render-deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appacademy/practice-for-sprint-12-authenticate-me-for-render-deployment/issues"
+  },
+  "homepage": "https://github.com/appacademy/practice-for-sprint-12-authenticate-me-for-render-deployment#readme"
+}
