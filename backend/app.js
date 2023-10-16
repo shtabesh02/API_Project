@@ -49,4 +49,8 @@ app.use(routes); // Connect all the routes
 // backend/app.js
 // ...
 
+
+const port = 5001;
+app.listen(port, () => console.log('Server is listening on port', port));
+
 module.exports = app;
