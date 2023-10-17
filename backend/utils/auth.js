@@ -3,6 +3,7 @@ const jwt = require('jsonwebtoken');
 const { jwtConfig } = require('../config');
 const { User } = require('../db/models');
 
+
 const { secret, expiresIn } = jwtConfig;
 
 
@@ -100,3 +101,4 @@ const requireAuth = function (req, _res, next) {
 // ...
 
 module.exports = { setTokenCookie, restoreUser, requireAuth };
+
